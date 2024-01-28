@@ -1,1 +1,1 @@
-# Twitter-Sentiment-Analysis
+This code performs sentiment analysis on the 50 most recent tweets fetched from the Twitter API using the [X] API for authentication. The sentiment analysis is performed on the retrieved data to determine the overall sentiment (positive, negative, or neutral) of the tweets and then visualize the sentiment analysis results on a dashboard.
